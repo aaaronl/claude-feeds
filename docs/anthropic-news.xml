@@ -5,7 +5,7 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 13 Jun 2026 00:50:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 07:13:06 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
 <item>
 <title>Responsible Scaling Policy</title>
@@ -26,12 +26,6 @@
 <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Statement on the US government directive to suspend access to Fable 5 and Mythos 5</title>
-<link>https://www.anthropic.com/news/fable-mythos-access</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/fable-mythos-access</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Introducing Claude Corps</title>
 <link>https://www.anthropic.com/news/claude-corps</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/claude-corps</guid>
@@ -44,21 +38,27 @@
 <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Statement on the US government directive to suspend access to Fable 5 and Mythos 5</title>
+<link>https://www.anthropic.com/news/fable-mythos-access</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/fable-mythos-access</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Claude Fable 5 and Claude Mythos 5</title>
 <link>https://www.anthropic.com/news/claude-fable-5-mythos-5</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/claude-fable-5-mythos-5</guid>
 <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Introducing the Services Track and Partner Hub of the Claude Partner Network</title>
-<link>https://www.anthropic.com/news/services-track-partner-hub</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/services-track-partner-hub</guid>
-<pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>What we learned mapping a year’s worth of AI-enabled cyber threats</title>
 <link>https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</guid>
+<pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Introducing the Services Track and Partner Hub of the Claude Partner Network</title>
+<link>https://www.anthropic.com/news/services-track-partner-hub</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/services-track-partner-hub</guid>
 <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
