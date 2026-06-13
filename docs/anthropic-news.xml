@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Anthropic Newsroom</title>
+<link>https://www.anthropic.com/news</link>
+<description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
+<language>en-us</language>
+<lastBuildDate>Sat, 13 Jun 2026 00:50:25 +0000</lastBuildDate>
+<generator>github-actions-rss</generator>
+<item>
+<title>Responsible Scaling Policy</title>
+<link>https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy</guid>
+<pubDate>Sat, 13 Jun 2026 00:50:24 +0000</pubDate>
+</item>
+<item>
+<title>Results from the first Anthropic Public Record</title>
+<link>https://www.anthropic.com/news/anthropic-public-record</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/anthropic-public-record</guid>
+<pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>TCS and Anthropic partner to bring Claude to regulated industries</title>
+<link>https://www.anthropic.com/news/tcs-anthropic-partnership</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/tcs-anthropic-partnership</guid>
+<pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Statement on the US government directive to suspend access to Fable 5 and Mythos 5</title>
+<link>https://www.anthropic.com/news/fable-mythos-access</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/fable-mythos-access</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Introducing Claude Corps</title>
+<link>https://www.anthropic.com/news/claude-corps</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/claude-corps</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</title>
+<link>https://www.anthropic.com/news/dxc-anthropic-alliance</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/dxc-anthropic-alliance</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Claude Fable 5 and Claude Mythos 5</title>
+<link>https://www.anthropic.com/news/claude-fable-5-mythos-5</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/claude-fable-5-mythos-5</guid>
+<pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Introducing the Services Track and Partner Hub of the Claude Partner Network</title>
+<link>https://www.anthropic.com/news/services-track-partner-hub</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/services-track-partner-hub</guid>
+<pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>What we learned mapping a year’s worth of AI-enabled cyber threats</title>
+<link>https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</guid>
+<pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Expanding Project Glasswing</title>
+<link>https://www.anthropic.com/news/expanding-project-glasswing</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/expanding-project-glasswing</guid>
+<pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic confidentially submits draft S-1 to the SEC</title>
+<link>https://www.anthropic.com/news/confidential-draft-s1-sec</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/confidential-draft-s1-sec</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Introducing Claude Opus 4.8</title>
+<link>https://www.anthropic.com/news/claude-opus-4-8</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-8</guid>
+<pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnifica humanitas"</title>
+<link>https://www.anthropic.com/news/chris-olah-pope-leo-encyclical</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/chris-olah-pope-leo-encyclical</guid>
+<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+</item>
+</channel>
+</rss>

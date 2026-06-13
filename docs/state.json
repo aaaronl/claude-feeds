@@ -1,0 +1,191 @@
+{
+  "anthropic-news": {
+    "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack": {
+      "date": "2026-06-03T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "What we learned mapping a year\u2019s worth of AI-enabled cyber threats"
+    },
+    "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy": {
+      "date": null,
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Responsible Scaling Policy"
+    },
+    "https://www.anthropic.com/news/anthropic-public-record": {
+      "date": "2026-06-12T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Results from the first Anthropic Public Record"
+    },
+    "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical": {
+      "date": "2026-05-25T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\""
+    },
+    "https://www.anthropic.com/news/claude-corps": {
+      "date": "2026-06-11T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Introducing Claude Corps"
+    },
+    "https://www.anthropic.com/news/claude-fable-5-mythos-5": {
+      "date": "2026-06-09T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Claude Fable 5 and Claude Mythos 5"
+    },
+    "https://www.anthropic.com/news/claude-opus-4-8": {
+      "date": "2026-05-28T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Introducing Claude Opus 4.8"
+    },
+    "https://www.anthropic.com/news/confidential-draft-s1-sec": {
+      "date": "2026-06-01T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Anthropic confidentially submits draft S-1 to the SEC"
+    },
+    "https://www.anthropic.com/news/dxc-anthropic-alliance": {
+      "date": "2026-06-11T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on"
+    },
+    "https://www.anthropic.com/news/expanding-project-glasswing": {
+      "date": "2026-06-02T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Expanding Project Glasswing"
+    },
+    "https://www.anthropic.com/news/fable-mythos-access": {
+      "date": "2026-06-11T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5"
+    },
+    "https://www.anthropic.com/news/services-track-partner-hub": {
+      "date": "2026-06-03T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network"
+    },
+    "https://www.anthropic.com/news/tcs-anthropic-partnership": {
+      "date": "2026-06-12T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries"
+    }
+  },
+  "claude-blog": {
+    "https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code": {
+      "date": "2026-06-02T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "A harness for every task: dynamic workflows in Claude Code"
+    },
+    "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork": {
+      "date": "2026-06-03T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Best practices for getting started with Claude Cowork"
+    },
+    "https://claude.com/blog/building-with-claude-managed-agents": {
+      "date": "2026-06-10T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "The evolution of agentic surfaces: building with Claude Managed Agents"
+    },
+    "https://claude.com/blog/claude-builds-visuals": {
+      "date": "2026-03-12T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": ""
+    },
+    "https://claude.com/blog/claude-code-desktop-redesign": {
+      "date": "2026-04-14T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": ""
+    },
+    "https://claude.com/blog/claude-for-foundation-models": {
+      "date": "2026-06-08T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework"
+    },
+    "https://claude.com/blog/claude-managed-agents": {
+      "date": "2026-04-08T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": ""
+    },
+    "https://claude.com/blog/claude-managed-agents-memory": {
+      "date": "2026-04-23T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": ""
+    },
+    "https://claude.com/blog/claude-managed-agents-updates": {
+      "date": "2026-05-19T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": ""
+    },
+    "https://claude.com/blog/connectors-for-everyday-life": {
+      "date": "2026-04-23T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": ""
+    },
+    "https://claude.com/blog/harnessing-claudes-intelligence": {
+      "date": "2026-04-02T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": ""
+    },
+    "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude": {
+      "date": "2026-06-03T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "How Anthropic enables self-service data analytics with Claude"
+    },
+    "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering": {
+      "date": "2026-06-05T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "How one Anthropic seller rebuilt his team's workflows with Claude Code"
+    },
+    "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system": {
+      "date": "2026-05-27T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "How CodeRabbit used Claude to build an agent orchestration system"
+    },
+    "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
+      "date": "2026-05-28T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Introducing dynamic workflows in Claude Code"
+    },
+    "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills": {
+      "date": "2026-06-03T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Lessons from building Claude Code: How we use skills"
+    },
+    "https://claude.com/blog/new-in-claude-managed-agents": {
+      "date": "2026-05-06T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": ""
+    },
+    "https://claude.com/blog/observability-for-developers-building-connectors": {
+      "date": "2026-06-08T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Observability for developers building connectors"
+    },
+    "https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense": {
+      "date": "2026-04-10T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": ""
+    },
+    "https://claude.com/blog/running-an-ai-native-engineering-org": {
+      "date": "2026-06-03T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Running an AI-native engineering org"
+    },
+    "https://claude.com/blog/the-claude-cowork-product-guide": {
+      "date": "2026-06-05T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "The Claude Cowork product guide"
+    },
+    "https://claude.com/blog/using-llms-to-secure-source-code": {
+      "date": "2026-05-27T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Using LLMs to secure source code"
+    },
+    "https://claude.com/blog/whats-new-in-claude-managed-agents": {
+      "date": "2026-06-09T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults"
+    },
+    "https://claude.com/blog/zero-trust-for-ai-agents": {
+      "date": "2026-05-27T00:00:00+00:00",
+      "first_seen": "2026-06-13T00:50:24.757988+00:00",
+      "title": "Zero Trust for AI agents"
+    }
+  }
+}
