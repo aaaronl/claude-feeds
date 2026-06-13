@@ -1,0 +1,41 @@
+name: Build RSS feeds
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours (UTC). Edit to taste.
+  workflow_dispatch:          # adds a manual "Run workflow" button
+
+permissions:
+  contents: write             # allows the job to commit the generated feeds
+
+concurrency:
+  group: build-feeds
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Generate feeds
+        run: python generate_feeds.py
+
+      - name: Commit updated feeds
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --staged --quiet; then
+            echo "No changes this run."
+          else
+            git commit -m "Update feeds ($(date -u +%FT%TZ))"
+            git push
+          fi
