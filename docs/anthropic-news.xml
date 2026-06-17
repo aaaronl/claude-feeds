@@ -5,8 +5,14 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 17 Jun 2026 13:07:02 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Jun 2026 18:45:03 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem</title>
+<link>https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem</guid>
+<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Responsible Scaling Policy</title>
 <link>https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy</link>
