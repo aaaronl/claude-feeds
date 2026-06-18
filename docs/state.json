@@ -77,6 +77,11 @@
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "A harness for every task: dynamic workflows in Claude Code"
     },
+    "https://claude.com/blog/artifacts-in-claude-code": {
+      "date": "2026-06-18T00:00:00+00:00",
+      "first_seen": "2026-06-18T18:43:49.569681+00:00",
+      "title": "Claude Code now supports artifacts"
+    },
     "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork": {
       "date": "2026-06-03T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
@@ -126,6 +131,11 @@
       "date": "2026-04-23T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": ""
+    },
+    "https://claude.com/blog/enterprise-managed-auth": {
+      "date": "2026-06-18T00:00:00+00:00",
+      "first_seen": "2026-06-18T18:43:49.569681+00:00",
+      "title": "Centrally manage authorization for MCP connectors"
     },
     "https://claude.com/blog/harnessing-claudes-intelligence": {
       "date": "2026-04-02T00:00:00+00:00",
@@ -186,6 +196,11 @@
       "date": "2026-06-03T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "Running an AI-native engineering org"
+    },
+    "https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more": {
+      "date": "2026-06-18T00:00:00+00:00",
+      "first_seen": "2026-06-18T18:43:49.569681+00:00",
+      "title": "Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more"
     },
     "https://claude.com/blog/the-claude-cowork-product-guide": {
       "date": "2026-06-05T00:00:00+00:00",
