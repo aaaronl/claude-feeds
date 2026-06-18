@@ -97,6 +97,11 @@
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": ""
     },
+    "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work": {
+      "date": "2026-06-17T00:00:00+00:00",
+      "first_seen": "2026-06-18T00:31:23.686406+00:00",
+      "title": "Claude Design now stays on brand for daily work"
+    },
     "https://claude.com/blog/claude-for-foundation-models": {
       "date": "2026-06-08T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
@@ -157,6 +162,11 @@
       "first_seen": "2026-06-16T00:35:18.055162+00:00",
       "title": "Meet the winners of the Built with Opus 4.7 Claude Code hackathon"
     },
+    "https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon": {
+      "date": "2026-06-17T00:00:00+00:00",
+      "first_seen": "2026-06-18T00:31:23.686406+00:00",
+      "title": "Meet the winners of our Claude Opus 4.8 Build Day hackathon"
+    },
     "https://claude.com/blog/new-in-claude-managed-agents": {
       "date": "2026-05-06T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
@@ -191,6 +201,11 @@
       "date": "2026-06-09T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults"
+    },
+    "https://claude.com/blog/workload-identity-federation": {
+      "date": "2026-06-17T00:00:00+00:00",
+      "first_seen": "2026-06-18T00:31:23.686406+00:00",
+      "title": "Secure access to the Claude Platform with Workload Identity Federation"
     },
     "https://claude.com/blog/zero-trust-for-ai-agents": {
       "date": "2026-05-27T00:00:00+00:00",
