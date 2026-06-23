@@ -5,8 +5,14 @@
 <link>https://claude.com/blog</link>
 <description>Unofficial feed of posts from the Claude blog (claude.com/blog).</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 23 Jun 2026 12:50:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 18:36:15 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>Agent identity in Claude Tag: a new access model for autonomous, team-wide AI</title>
+<link>https://claude.com/blog/agent-identity-access-model</link>
+<guid isPermaLink="true">https://claude.com/blog/agent-identity-access-model</guid>
+<pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry</title>
 <link>https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry</link>
@@ -180,12 +186,6 @@
 <link>https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense</link>
 <guid isPermaLink="true">https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense</guid>
 <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>https://claude.com/blog/claude-managed-agents</title>
-<link>https://claude.com/blog/claude-managed-agents</link>
-<guid isPermaLink="true">https://claude.com/blog/claude-managed-agents</guid>
-<pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>

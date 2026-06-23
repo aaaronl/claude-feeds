@@ -55,6 +55,11 @@
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5"
     },
+    "https://www.anthropic.com/news/introducing-claude-tag": {
+      "date": "2026-06-23T00:00:00+00:00",
+      "first_seen": "2026-06-23T18:36:15.161191+00:00",
+      "title": "Introducing Claude Tag"
+    },
     "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem": {
       "date": "2026-06-17T00:00:00+00:00",
       "first_seen": "2026-06-17T18:44:57.521514+00:00",
@@ -76,6 +81,11 @@
       "date": "2026-06-02T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "A harness for every task: dynamic workflows in Claude Code"
+    },
+    "https://claude.com/blog/agent-identity-access-model": {
+      "date": "2026-06-24T00:00:00+00:00",
+      "first_seen": "2026-06-23T18:36:15.161191+00:00",
+      "title": "Agent identity in Claude Tag: a new access model for autonomous, team-wide AI"
     },
     "https://claude.com/blog/artifacts-in-claude-code": {
       "date": "2026-06-18T00:00:00+00:00",

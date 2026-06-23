@@ -5,8 +5,14 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 23 Jun 2026 12:50:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 18:36:19 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>Introducing Claude Tag</title>
+<link>https://www.anthropic.com/news/introducing-claude-tag</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/introducing-claude-tag</guid>
+<pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem</title>
 <link>https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem</link>
