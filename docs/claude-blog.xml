@@ -5,12 +5,18 @@
 <link>https://claude.com/blog</link>
 <description>Unofficial feed of posts from the Claude blog (claude.com/blog).</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 24 Jun 2026 12:39:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 18:31:47 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
 <item>
 <title>Agent identity in Claude Tag: a new access model for autonomous, team-wide AI</title>
 <link>https://claude.com/blog/agent-identity-access-model</link>
 <guid isPermaLink="true">https://claude.com/blog/agent-identity-access-model</guid>
+<pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Building effective human-agent teams</title>
+<link>https://claude.com/blog/building-effective-human-agent-teams</link>
+<guid isPermaLink="true">https://claude.com/blog/building-effective-human-agent-teams</guid>
 <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -180,12 +186,6 @@
 <link>https://claude.com/blog/claude-code-desktop-redesign</link>
 <guid isPermaLink="true">https://claude.com/blog/claude-code-desktop-redesign</guid>
 <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense</title>
-<link>https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense</link>
-<guid isPermaLink="true">https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense</guid>
-<pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
