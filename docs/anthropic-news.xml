@@ -5,8 +5,20 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 30 Jun 2026 12:35:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 18:31:57 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>Introducing Claude Sonnet 5</title>
+<link>https://www.anthropic.com/news/claude-sonnet-5</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-5</guid>
+<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Claude Science, an AI workbench for scientists, is now available</title>
+<link>https://www.anthropic.com/news/claude-science-ai-workbench</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/claude-science-ai-workbench</guid>
+<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Introducing Claude Tag</title>
 <link>https://www.anthropic.com/news/introducing-claude-tag</link>
