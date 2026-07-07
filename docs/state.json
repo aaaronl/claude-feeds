@@ -127,6 +127,11 @@
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "Best practices for getting started with Claude Cowork"
     },
+    "https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government": {
+      "date": "2026-07-07T00:00:00+00:00",
+      "first_seen": "2026-07-07T19:31:30.565769+00:00",
+      "title": "Bringing Claude Code and Claude Cowork to government"
+    },
     "https://claude.com/blog/building-effective-human-agent-teams": {
       "date": "2026-06-24T00:00:00+00:00",
       "first_seen": "2026-06-24T18:31:47.140428+00:00",
@@ -177,10 +182,20 @@
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": ""
     },
+    "https://claude.com/blog/claude-model-and-effort-level-in-claude-code": {
+      "date": "2026-07-07T00:00:00+00:00",
+      "first_seen": "2026-07-07T19:31:30.565769+00:00",
+      "title": "Choosing a Claude model and effort level in Claude Code"
+    },
     "https://claude.com/blog/connectors-for-everyday-life": {
       "date": "2026-04-23T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": ""
+    },
+    "https://claude.com/blog/cowork-web-mobile": {
+      "date": "2026-07-07T00:00:00+00:00",
+      "first_seen": "2026-07-07T19:31:30.565769+00:00",
+      "title": "Claude Cowork is coming to mobile and web"
     },
     "https://claude.com/blog/enterprise-managed-auth": {
       "date": "2026-06-18T00:00:00+00:00",
@@ -216,6 +231,11 @@
       "date": "2026-05-27T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "How CodeRabbit used Claude to build an agent orchestration system"
+    },
+    "https://claude.com/blog/how-people-are-using-claude-cowork": {
+      "date": "2026-07-07T00:00:00+00:00",
+      "first_seen": "2026-07-07T19:31:30.565769+00:00",
+      "title": "How people are using Claude Cowork"
     },
     "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
       "date": "2026-05-28T00:00:00+00:00",
