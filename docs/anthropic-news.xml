@@ -5,8 +5,14 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 09 Jul 2026 09:17:22 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 14:26:17 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>Introducing a way to reflect on how you use Claude</title>
+<link>https://www.anthropic.com/news/reflect-with-claude</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/reflect-with-claude</guid>
+<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Case Study Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems</title>
 <link>https://www.anthropic.com/news/alberta-government-claude-cybersecurity</link>
