@@ -20,6 +20,11 @@
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "Results from the first Anthropic Public Record"
     },
+    "https://www.anthropic.com/news/ben-bernanke": {
+      "date": "2026-07-09T00:00:00+00:00",
+      "first_seen": "2026-07-09T19:18:26.105634+00:00",
+      "title": "Ben Bernanke appointed to Anthropic\u2019s Long-Term Benefit Trust"
+    },
     "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical": {
       "date": "2026-05-25T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
@@ -74,6 +79,11 @@
       "date": "2026-07-02T00:00:00+00:00",
       "first_seen": "2026-07-03T01:46:54.103180+00:00",
       "title": "More details on Fable 5\u2019s cyber safeguards and our jailbreak framework"
+    },
+    "https://www.anthropic.com/news/hard-questions": {
+      "date": "2026-07-09T00:00:00+00:00",
+      "first_seen": "2026-07-09T19:18:26.105634+00:00",
+      "title": "Inviting hard questions"
     },
     "https://www.anthropic.com/news/introducing-claude-tag": {
       "date": "2026-06-23T00:00:00+00:00",
