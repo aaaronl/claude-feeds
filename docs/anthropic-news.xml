@@ -5,12 +5,12 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 09 Jul 2026 19:18:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 01:45:01 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
 <item>
-<title>Introducing a way to reflect on how you use Claude</title>
-<link>https://www.anthropic.com/news/reflect-with-claude</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/reflect-with-claude</guid>
+<title>Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust</title>
+<link>https://www.anthropic.com/news/ben-bernanke</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/ben-bernanke</guid>
 <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -20,9 +20,15 @@
 <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust</title>
-<link>https://www.anthropic.com/news/ben-bernanke</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/ben-bernanke</guid>
+<title>Introducing a way to reflect on how you use Claude</title>
+<link>https://www.anthropic.com/news/reflect-with-claude</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/reflect-with-claude</guid>
+<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Case Study UST is bringing Claude to physical AI</title>
+<link>https://www.anthropic.com/news/ust-claude</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/ust-claude</guid>
 <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
