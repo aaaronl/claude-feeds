@@ -147,6 +147,11 @@
       "first_seen": "2026-06-23T18:36:15.161191+00:00",
       "title": "Agent identity in Claude Tag: a new access model for autonomous, team-wide AI"
     },
+    "https://claude.com/blog/ai-code-migration": {
+      "date": "2026-07-16T00:00:00+00:00",
+      "first_seen": "2026-07-16T18:52:52.549515+00:00",
+      "title": "How Anthropic runs large-scale code migrations with Claude Code"
+    },
     "https://claude.com/blog/artifacts-in-claude-code": {
       "date": "2026-06-18T00:00:00+00:00",
       "first_seen": "2026-06-18T18:43:49.569681+00:00",
@@ -361,6 +366,11 @@
       "date": "2026-07-15T00:00:00+00:00",
       "first_seen": "2026-07-15T18:52:12.663236+00:00",
       "title": "Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work"
+    },
+    "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork": {
+      "date": "2026-07-16T00:00:00+00:00",
+      "first_seen": "2026-07-16T18:52:52.549515+00:00",
+      "title": "Working with Claude Fable 5 in Claude Cowork"
     },
     "https://claude.com/blog/workload-identity-federation": {
       "date": "2026-06-17T00:00:00+00:00",
