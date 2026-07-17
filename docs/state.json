@@ -177,6 +177,11 @@
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "The evolution of agentic surfaces: building with Claude Managed Agents"
     },
+    "https://claude.com/blog/ciso-guide-to-agentic-ai": {
+      "date": "2026-07-17T00:00:00+00:00",
+      "first_seen": "2026-07-17T18:50:17.806854+00:00",
+      "title": "Zero risk isn't the job: a CISO's guide to agentic AI"
+    },
     "https://claude.com/blog/claude-builds-visuals": {
       "date": "2026-03-12T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
@@ -346,6 +351,11 @@
       "date": "2026-06-09T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults"
+    },
+    "https://claude.com/blog/working-at-the-frontier-cursor": {
+      "date": "2026-07-17T00:00:00+00:00",
+      "first_seen": "2026-07-17T18:50:17.806854+00:00",
+      "title": "Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems"
     },
     "https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night": {
       "date": "2026-07-10T00:00:00+00:00",
