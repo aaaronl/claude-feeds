@@ -5,18 +5,18 @@
 <link>https://claude.com/blog</link>
 <description>Unofficial feed of posts from the Claude blog (claude.com/blog).</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 17 Jul 2026 18:50:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 01:17:59 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
-<item>
-<title>Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems</title>
-<link>https://claude.com/blog/working-at-the-frontier-cursor</link>
-<guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-cursor</guid>
-<pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-</item>
 <item>
 <title>Zero risk isn't the job: a CISO's guide to agentic AI</title>
 <link>https://claude.com/blog/ciso-guide-to-agentic-ai</link>
 <guid isPermaLink="true">https://claude.com/blog/ciso-guide-to-agentic-ai</guid>
+<pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems</title>
+<link>https://claude.com/blog/working-at-the-frontier-cursor</link>
+<guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-cursor</guid>
 <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
