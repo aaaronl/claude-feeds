@@ -100,6 +100,11 @@
       "first_seen": "2026-06-23T18:36:15.161191+00:00",
       "title": "Introducing Claude Tag"
     },
+    "https://www.anthropic.com/news/rare-disease-research-grants": {
+      "date": "2026-07-20T00:00:00+00:00",
+      "first_seen": "2026-07-20T19:22:02.783581+00:00",
+      "title": "Apply for Anthropic\u2019s AI for Science rare disease research grants"
+    },
     "https://www.anthropic.com/news/redeploying-fable-5": {
       "date": "2026-06-30T00:00:00+00:00",
       "first_seen": "2026-07-01T07:22:52.996837+00:00",
@@ -371,6 +376,11 @@
       "date": "2026-07-08T00:00:00+00:00",
       "first_seen": "2026-07-08T19:03:22.613043+00:00",
       "title": "Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work"
+    },
+    "https://claude.com/blog/working-at-the-frontier-rakuten": {
+      "date": "2026-07-20T00:00:00+00:00",
+      "first_seen": "2026-07-20T19:22:02.783581+00:00",
+      "title": "Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5"
     },
     "https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work": {
       "date": "2026-07-15T00:00:00+00:00",
