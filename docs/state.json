@@ -267,6 +267,11 @@
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "How Anthropic enables self-service data analytics with Claude"
     },
+    "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle": {
+      "date": "2026-07-21T00:00:00+00:00",
+      "first_seen": "2026-07-21T19:01:18.175060+00:00",
+      "title": "How Anthropic secures its AI-native software development lifecycle"
+    },
     "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering": {
       "date": "2026-06-05T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
@@ -281,6 +286,11 @@
       "date": "2026-05-27T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "How CodeRabbit used Claude to build an agent orchestration system"
+    },
+    "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code": {
+      "date": "2026-07-21T00:00:00+00:00",
+      "first_seen": "2026-07-21T19:01:18.175060+00:00",
+      "title": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code"
     },
     "https://claude.com/blog/how-people-are-using-claude-cowork": {
       "date": "2026-07-07T00:00:00+00:00",
