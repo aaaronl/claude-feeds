@@ -15,6 +15,11 @@
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "Responsible Scaling Policy"
     },
+    "https://www.anthropic.com/news/anthropic-economic-index-connector": {
+      "date": "2026-07-22T00:00:00+00:00",
+      "first_seen": "2026-07-22T18:54:20.810155+00:00",
+      "title": "Ask Claude about the Anthropic Economic Index"
+    },
     "https://www.anthropic.com/news/anthropic-public-record": {
       "date": "2026-06-12T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
@@ -79,6 +84,11 @@
       "date": "2026-06-11T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on"
+    },
+    "https://www.anthropic.com/news/economic-futures-research-fund-agenda": {
+      "date": "2026-07-22T00:00:00+00:00",
+      "first_seen": "2026-07-22T18:54:20.810155+00:00",
+      "title": "Economic Research A research agenda for the Economic Futures Research Fund"
     },
     "https://www.anthropic.com/news/expanding-project-glasswing": {
       "date": "2026-06-02T00:00:00+00:00",
@@ -181,6 +191,11 @@
       "date": "2026-06-24T00:00:00+00:00",
       "first_seen": "2026-06-24T18:31:47.140428+00:00",
       "title": "Building effective human-agent teams"
+    },
+    "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills": {
+      "date": "2026-07-22T00:00:00+00:00",
+      "first_seen": "2026-07-22T18:54:20.810155+00:00",
+      "title": "Building verification loops in Claude Code with skills"
     },
     "https://claude.com/blog/building-with-claude-managed-agents": {
       "date": "2026-06-10T00:00:00+00:00",
@@ -296,6 +311,11 @@
       "date": "2026-07-21T00:00:00+00:00",
       "first_seen": "2026-07-21T19:01:18.175060+00:00",
       "title": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code"
+    },
+    "https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude": {
+      "date": "2026-07-22T00:00:00+00:00",
+      "first_seen": "2026-07-22T18:54:20.810155+00:00",
+      "title": "How Outtake built a cyber investigator on Claude"
     },
     "https://claude.com/blog/how-people-are-using-claude-cowork": {
       "date": "2026-07-07T00:00:00+00:00",
