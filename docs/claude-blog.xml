@@ -5,8 +5,26 @@
 <link>https://claude.com/blog</link>
 <description>Unofficial feed of posts from the Claude blog (claude.com/blog).</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 24 Jul 2026 13:14:04 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 19:08:54 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>How the product designer who built Claude Design uses it to explore ideas before building them</title>
+<link>https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them</link>
+<guid isPermaLink="true">https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them</guid>
+<pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The new rules of context engineering for Claude 5 generation models</title>
+<link>https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</link>
+<guid isPermaLink="true">https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</guid>
+<pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Claude models explained: choosing the best model for your use case</title>
+<link>https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case</link>
+<guid isPermaLink="true">https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case</guid>
+<pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Four role-based certifications for the people who put Claude to work for customers</title>
 <link>https://claude.com/blog/four-role-based-claude-certifications</link>
@@ -168,24 +186,6 @@
 <link>https://claude.com/blog/building-effective-human-agent-teams</link>
 <guid isPermaLink="true">https://claude.com/blog/building-effective-human-agent-teams</guid>
 <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry</title>
-<link>https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry</link>
-<guid isPermaLink="true">https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry</guid>
-<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Claude Code now supports artifacts</title>
-<link>https://claude.com/blog/artifacts-in-claude-code</link>
-<guid isPermaLink="true">https://claude.com/blog/artifacts-in-claude-code</guid>
-<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Centrally manage authorization for MCP connectors</title>
-<link>https://claude.com/blog/enterprise-managed-auth</link>
-<guid isPermaLink="true">https://claude.com/blog/enterprise-managed-auth</guid>
-<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>

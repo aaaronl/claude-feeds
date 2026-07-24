@@ -60,6 +60,11 @@
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "Introducing Claude Opus 4.8"
     },
+    "https://www.anthropic.com/news/claude-opus-5": {
+      "date": "2026-07-24T00:00:00+00:00",
+      "first_seen": "2026-07-24T19:08:54.380967+00:00",
+      "title": "Introducing Claude Opus 5"
+    },
     "https://www.anthropic.com/news/claude-science-ai-workbench": {
       "date": "2026-06-30T00:00:00+00:00",
       "first_seen": "2026-06-30T18:31:57.222135+00:00",
@@ -252,6 +257,11 @@
       "first_seen": "2026-07-07T19:31:30.565769+00:00",
       "title": "Choosing a Claude model and effort level in Claude Code"
     },
+    "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case": {
+      "date": "2026-07-24T00:00:00+00:00",
+      "first_seen": "2026-07-24T19:08:54.380967+00:00",
+      "title": "Claude models explained: choosing the best model for your use case"
+    },
     "https://claude.com/blog/connectors-for-everyday-life": {
       "date": "2026-04-23T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
@@ -327,6 +337,11 @@
       "first_seen": "2026-07-07T19:31:30.565769+00:00",
       "title": "How people are using Claude Cowork"
     },
+    "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them": {
+      "date": "2026-07-24T00:00:00+00:00",
+      "first_seen": "2026-07-24T19:08:54.380967+00:00",
+      "title": "How the product designer who built Claude Design uses it to explore ideas before building them"
+    },
     "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
       "date": "2026-05-28T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
@@ -386,6 +401,11 @@
       "date": "2026-06-22T00:00:00+00:00",
       "first_seen": "2026-06-23T00:26:57.570603+00:00",
       "title": "The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry"
+    },
+    "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models": {
+      "date": "2026-07-24T00:00:00+00:00",
+      "first_seen": "2026-07-24T19:08:54.380967+00:00",
+      "title": "The new rules of context engineering for Claude 5 generation models"
     },
     "https://claude.com/blog/think-through-hard-problems-in-voice-mode": {
       "date": "2026-07-23T00:00:00+00:00",
