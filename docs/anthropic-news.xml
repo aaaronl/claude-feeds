@@ -5,8 +5,14 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 27 Jul 2026 14:07:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 19:08:17 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</title>
+<link>https://www.anthropic.com/news/cognizant-anthropic</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/cognizant-anthropic</guid>
+<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Introducing Claude Opus 5</title>
 <link>https://www.anthropic.com/news/claude-opus-5</link>
@@ -180,12 +186,6 @@
 <link>https://www.anthropic.com/news/confidential-draft-s1-sec</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/confidential-draft-s1-sec</guid>
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Introducing Claude Opus 4.8</title>
-<link>https://www.anthropic.com/news/claude-opus-4-8</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-8</guid>
-<pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
