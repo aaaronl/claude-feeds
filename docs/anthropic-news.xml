@@ -5,12 +5,18 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 27 Jul 2026 19:08:17 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 01:21:51 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
 <item>
 <title>Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</title>
 <link>https://www.anthropic.com/news/cognizant-anthropic</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/cognizant-anthropic</guid>
+<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Our position on open-weights models</title>
+<link>https://www.anthropic.com/news/position-open-weights-models</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/position-open-weights-models</guid>
 <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -180,12 +186,6 @@
 <link>https://www.anthropic.com/news/expanding-project-glasswing</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/expanding-project-glasswing</guid>
 <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic confidentially submits draft S-1 to the SEC</title>
-<link>https://www.anthropic.com/news/confidential-draft-s1-sec</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/confidential-draft-s1-sec</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
