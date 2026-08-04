@@ -5,8 +5,14 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 04 Aug 2026 13:41:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 19:16:34 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</title>
+<link>https://www.anthropic.com/news/tino-cuellar</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/tino-cuellar</guid>
+<pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations</title>
 <link>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</link>
@@ -179,12 +185,6 @@
 <title>What we learned mapping a year’s worth of AI-enabled cyber threats</title>
 <link>https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack</guid>
-<pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Introducing the Services Track and Partner Hub of the Claude Partner Network</title>
-<link>https://www.anthropic.com/news/services-track-partner-hub</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/services-track-partner-hub</guid>
 <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
