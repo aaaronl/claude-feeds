@@ -5,8 +5,14 @@
 <link>https://claude.com/blog</link>
 <description>Unofficial feed of posts from the Claude blog (claude.com/blog).</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 04 Aug 2026 19:16:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 01:23:17 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>A guide to cost visibility and control in Claude</title>
+<link>https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude</link>
+<guid isPermaLink="true">https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude</guid>
+<pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Bringing MCP 2026-07-28 to Claude</title>
 <link>https://claude.com/blog/bringing-mcp-2026-07-28-to-claude</link>
@@ -180,12 +186,6 @@
 <link>https://claude.com/blog/introducing-the-claude-apps-gateway</link>
 <guid isPermaLink="true">https://claude.com/blog/introducing-the-claude-apps-gateway</guid>
 <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Agent identity in Claude Tag: a new access model for autonomous, team-wide AI</title>
-<link>https://claude.com/blog/agent-identity-access-model</link>
-<guid isPermaLink="true">https://claude.com/blog/agent-identity-access-model</guid>
-<pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
