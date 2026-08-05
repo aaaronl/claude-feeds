@@ -257,6 +257,11 @@
       "first_seen": "2026-06-18T00:31:23.686406+00:00",
       "title": "Claude Design now stays on brand for daily work"
     },
+    "https://claude.com/blog/claude-enterprise-inference-hooks": {
+      "date": "2026-08-05T00:00:00+00:00",
+      "first_seen": "2026-08-05T19:10:39.691922+00:00",
+      "title": "Inference hooks: inline data loss prevention for Claude Enterprise"
+    },
     "https://claude.com/blog/claude-for-foundation-models": {
       "date": "2026-06-08T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
