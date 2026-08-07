@@ -212,6 +212,16 @@
       "first_seen": "2026-06-18T18:43:49.569681+00:00",
       "title": "Claude Code now supports artifacts"
     },
+    "https://claude.com/blog/auto-mode-default-in-claude-code": {
+      "date": "2026-08-07T00:00:00+00:00",
+      "first_seen": "2026-08-07T18:36:51.736770+00:00",
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans"
+    },
+    "https://claude.com/blog/auto-mode-in-production": {
+      "date": "2026-08-07T00:00:00+00:00",
+      "first_seen": "2026-08-07T18:36:51.736770+00:00",
+      "title": "Running auto mode in production"
+    },
     "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork": {
       "date": "2026-06-03T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
