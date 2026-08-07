@@ -5,12 +5,18 @@
 <link>https://claude.com/blog</link>
 <description>Unofficial feed of posts from the Claude blog (claude.com/blog).</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 07 Aug 2026 02:00:43 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 06:57:33 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
 <item>
 <title>Millennium and Anthropic are building a digital risk analyst with Claude</title>
 <link>https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude</link>
 <guid isPermaLink="true">https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude</guid>
+<pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Run Claude Code sessions on your own compute</title>
+<link>https://claude.com/blog/run-claude-code-sessions-on-your-own-compute</link>
+<guid isPermaLink="true">https://claude.com/blog/run-claude-code-sessions-on-your-own-compute</guid>
 <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -180,12 +186,6 @@
 <link>https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend</link>
 <guid isPermaLink="true">https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend</guid>
 <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Loop engineering: Getting started with loops</title>
-<link>https://claude.com/blog/getting-started-with-loops</link>
-<guid isPermaLink="true">https://claude.com/blog/getting-started-with-loops</guid>
-<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>

@@ -120,6 +120,11 @@
       "first_seen": "2026-07-09T19:18:26.105634+00:00",
       "title": "Inviting hard questions"
     },
+    "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards": {
+      "date": "2026-08-07T00:00:00+00:00",
+      "first_seen": "2026-08-07T06:57:33.082741+00:00",
+      "title": "Improving Fable 5's biology safeguards"
+    },
     "https://www.anthropic.com/news/introducing-claude-tag": {
       "date": "2026-06-23T00:00:00+00:00",
       "first_seen": "2026-06-23T18:36:15.161191+00:00",
@@ -421,6 +426,11 @@
       "date": "2026-04-10T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": ""
+    },
+    "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute": {
+      "date": "2026-08-06T00:00:00+00:00",
+      "first_seen": "2026-08-07T06:57:33.082741+00:00",
+      "title": "Run Claude Code sessions on your own compute"
     },
     "https://claude.com/blog/running-an-ai-native-engineering-org": {
       "date": "2026-06-03T00:00:00+00:00",
