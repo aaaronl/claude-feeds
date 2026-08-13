@@ -5,8 +5,20 @@
 <link>https://claude.com/blog</link>
 <description>Unofficial feed of posts from the Claude blog (claude.com/blog).</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 13 Aug 2026 12:40:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 18:44:47 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions</title>
+<link>https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions</link>
+<guid isPermaLink="true">https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions</guid>
+<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Claude Tag now reads even more of the room</title>
+<link>https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</link>
+<guid isPermaLink="true">https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</guid>
+<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>The Claude in Chrome side panel is now Claude Cowork</title>
 <link>https://claude.com/blog/cowork-chrome-side-panel</link>
@@ -174,18 +186,6 @@
 <link>https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds</link>
 <guid isPermaLink="true">https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds</guid>
 <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work</title>
-<link>https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work</link>
-<guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work</guid>
-<pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Bringing Claude Code and Claude Cowork to government</title>
-<link>https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government</link>
-<guid isPermaLink="true">https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government</guid>
-<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
