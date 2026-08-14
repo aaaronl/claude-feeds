@@ -5,8 +5,14 @@
 <link>https://claude.com/blog</link>
 <description>Unofficial feed of posts from the Claude blog (claude.com/blog).</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 13 Aug 2026 18:44:47 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 00:56:53 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>Claude Tag now reads even more of the room</title>
+<link>https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</link>
+<guid isPermaLink="true">https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</guid>
+<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions</title>
 <link>https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions</link>
@@ -14,9 +20,9 @@
 <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Claude Tag now reads even more of the room</title>
-<link>https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</link>
-<guid isPermaLink="true">https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</guid>
+<title>Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5</title>
+<link>https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5</link>
+<guid isPermaLink="true">https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5</guid>
 <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -180,12 +186,6 @@
 <link>https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night</link>
 <guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night</guid>
 <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds</title>
-<link>https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds</link>
-<guid isPermaLink="true">https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds</guid>
-<pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
