@@ -5,8 +5,14 @@
 <link>https://claude.com/blog</link>
 <description>Unofficial feed of posts from the Claude blog (claude.com/blog).</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 17 Aug 2026 12:18:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 18:20:28 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>How ABC Legal turned every employee into a builder with Claude Managed Agents</title>
+<link>https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents</link>
+<guid isPermaLink="true">https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents</guid>
+<pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Maximizing the value of your Claude Code sessions</title>
 <link>https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</link>
@@ -180,12 +186,6 @@
 <link>https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work</link>
 <guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work</guid>
 <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail</title>
-<link>https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail</link>
-<guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail</guid>
-<pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
