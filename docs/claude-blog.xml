@@ -5,18 +5,18 @@
 <link>https://claude.com/blog</link>
 <description>Unofficial feed of posts from the Claude blog (claude.com/blog).</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 19 Aug 2026 00:32:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 06:22:46 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
-<item>
-<title>The Claude Science product guide</title>
-<link>https://claude.com/blog/the-claude-science-product-guide</link>
-<guid isPermaLink="true">https://claude.com/blog/the-claude-science-product-guide</guid>
-<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-</item>
 <item>
 <title>Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures</title>
 <link>https://claude.com/blog/ai-ci-cd-on-call</link>
 <guid isPermaLink="true">https://claude.com/blog/ai-ci-cd-on-call</guid>
+<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Claude Science product guide</title>
+<link>https://claude.com/blog/the-claude-science-product-guide</link>
+<guid isPermaLink="true">https://claude.com/blog/the-claude-science-product-guide</guid>
 <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
