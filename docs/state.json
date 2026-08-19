@@ -207,6 +207,11 @@
       "first_seen": "2026-06-23T18:36:15.161191+00:00",
       "title": "Agent identity in Claude Tag: a new access model for autonomous, team-wide AI"
     },
+    "https://claude.com/blog/ai-ci-cd-on-call": {
+      "date": "2026-08-18T00:00:00+00:00",
+      "first_seen": "2026-08-19T00:32:39.396334+00:00",
+      "title": "Claude on call: How Claude Tag serves as Anthropic\u2019s first responder for CI/CD failures"
+    },
     "https://claude.com/blog/ai-code-migration": {
       "date": "2026-07-16T00:00:00+00:00",
       "first_seen": "2026-07-16T18:52:52.549515+00:00",
