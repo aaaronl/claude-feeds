@@ -217,6 +217,11 @@
       "first_seen": "2026-07-16T18:52:52.549515+00:00",
       "title": "How Anthropic runs large-scale code migrations with Claude Code"
     },
+    "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai": {
+      "date": "2026-08-20T00:00:00+00:00",
+      "first_seen": "2026-08-20T18:20:35.696369+00:00",
+      "title": "Anthropic\u2019s approach to teaching and learning AI"
+    },
     "https://claude.com/blog/artifacts-in-claude-code": {
       "date": "2026-06-18T00:00:00+00:00",
       "first_seen": "2026-06-18T18:43:49.569681+00:00",
@@ -276,6 +281,11 @@
       "date": "2026-04-14T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": ""
+    },
+    "https://claude.com/blog/claude-code-guide-for-startups": {
+      "date": "2026-08-20T00:00:00+00:00",
+      "first_seen": "2026-08-20T18:20:35.696369+00:00",
+      "title": "The Claude Code guide for startups"
     },
     "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work": {
       "date": "2026-06-17T00:00:00+00:00",
@@ -416,6 +426,11 @@
       "date": "2026-08-13T00:00:00+00:00",
       "first_seen": "2026-08-14T00:56:53.244617+00:00",
       "title": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5"
+    },
+    "https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate": {
+      "date": "2026-08-20T00:00:00+00:00",
+      "first_seen": "2026-08-20T18:20:35.696369+00:00",
+      "title": "How monday.com transformed its platform into an agent-first product where humans and agents collaborate"
     },
     "https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude": {
       "date": "2026-07-22T00:00:00+00:00",

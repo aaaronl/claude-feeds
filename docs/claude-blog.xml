@@ -5,8 +5,26 @@
 <link>https://claude.com/blog</link>
 <description>Unofficial feed of posts from the Claude blog (claude.com/blog).</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 20 Aug 2026 12:22:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 18:20:36 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>Anthropic’s approach to teaching and learning AI</title>
+<link>https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai</link>
+<guid isPermaLink="true">https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>How monday.com transformed its platform into an agent-first product where humans and agents collaborate</title>
+<link>https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate</link>
+<guid isPermaLink="true">https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Claude Code guide for startups</title>
+<link>https://claude.com/blog/claude-code-guide-for-startups</link>
+<guid isPermaLink="true">https://claude.com/blog/claude-code-guide-for-startups</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Turning conversation into knowledge: how Slack builds human-agent teams</title>
 <link>https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams</link>
@@ -168,24 +186,6 @@
 <link>https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code</link>
 <guid isPermaLink="true">https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code</guid>
 <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5</title>
-<link>https://claude.com/blog/working-at-the-frontier-rakuten</link>
-<guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-rakuten</guid>
-<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Zero risk isn't the job: a CISO's guide to agentic AI</title>
-<link>https://claude.com/blog/ciso-guide-to-agentic-ai</link>
-<guid isPermaLink="true">https://claude.com/blog/ciso-guide-to-agentic-ai</guid>
-<pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems</title>
-<link>https://claude.com/blog/working-at-the-frontier-cursor</link>
-<guid isPermaLink="true">https://claude.com/blog/working-at-the-frontier-cursor</guid>
-<pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
