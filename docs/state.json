@@ -342,6 +342,11 @@
       "first_seen": "2026-08-11T18:43:29.522758+00:00",
       "title": "Compliance API coverage extends to Claude Cowork and Claude Code"
     },
+    "https://claude.com/blog/computer-use-skills-api-files-api": {
+      "date": "2026-08-20T00:00:00+00:00",
+      "first_seen": "2026-08-21T00:35:02.736770+00:00",
+      "title": "Build production agents with computer use, the Skills API, and the Files API"
+    },
     "https://claude.com/blog/connectors-for-everyday-life": {
       "date": "2026-04-23T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
