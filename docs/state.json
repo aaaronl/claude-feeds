@@ -247,6 +247,11 @@
       "first_seen": "2026-07-07T19:31:30.565769+00:00",
       "title": "Bringing Claude Code and Claude Cowork to government"
     },
+    "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders": {
+      "date": "2026-08-21T00:00:00+00:00",
+      "first_seen": "2026-08-21T18:19:32.248935+00:00",
+      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders"
+    },
     "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude": {
       "date": "2026-07-28T00:00:00+00:00",
       "first_seen": "2026-07-28T19:03:36.572387+00:00",
@@ -521,6 +526,11 @@
       "date": "2026-06-18T00:00:00+00:00",
       "first_seen": "2026-06-18T18:43:49.569681+00:00",
       "title": "Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more"
+    },
+    "https://claude.com/blog/the-ai-native-sdlc-playbook": {
+      "date": "2026-08-21T00:00:00+00:00",
+      "first_seen": "2026-08-21T18:19:32.248935+00:00",
+      "title": "The AI-Native SDLC playbook"
     },
     "https://claude.com/blog/the-claude-cowork-product-guide": {
       "date": "2026-06-05T00:00:00+00:00",
