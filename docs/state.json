@@ -184,6 +184,11 @@
       "date": "2026-07-09T00:00:00+00:00",
       "first_seen": "2026-07-10T01:44:57.415290+00:00",
       "title": "Case Study UST is bringing Claude to physical AI"
+    },
+    "https://www.anthropic.com/news/wellbeing-research-grants": {
+      "date": "2026-08-25T00:00:00+00:00",
+      "first_seen": "2026-08-25T18:21:11.437482+00:00",
+      "title": "Funding better evaluations of AI\u2019s impact on wellbeing"
     }
   },
   "claude-blog": {
@@ -236,6 +241,11 @@
       "date": "2026-08-07T00:00:00+00:00",
       "first_seen": "2026-08-07T18:36:51.736770+00:00",
       "title": "Running auto mode in production"
+    },
+    "https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner": {
+      "date": "2026-08-25T00:00:00+00:00",
+      "first_seen": "2026-08-25T18:21:11.437482+00:00",
+      "title": "Bain & Company joins the Claude Partner Network as a Global Premier partner"
     },
     "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork": {
       "date": "2026-06-03T00:00:00+00:00",
@@ -341,6 +351,11 @@
       "date": "2026-08-13T00:00:00+00:00",
       "first_seen": "2026-08-13T18:44:47.386209+00:00",
       "title": "Claude Tag now reads even more of the room"
+    },
+    "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it": {
+      "date": "2026-08-25T00:00:00+00:00",
+      "first_seen": "2026-08-25T18:21:11.437482+00:00",
+      "title": "Claude's memory works everywhere, and you decide what's in it"
     },
     "https://claude.com/blog/compliance-api-cowork-and-claude-code": {
       "date": "2026-08-11T00:00:00+00:00",
