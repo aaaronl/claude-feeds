@@ -317,6 +317,11 @@
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework"
     },
+    "https://claude.com/blog/claude-in-chrome-generally-available": {
+      "date": "2026-08-26T00:00:00+00:00",
+      "first_seen": "2026-08-26T19:29:43.353397+00:00",
+      "title": "Claude in Chrome is generally available"
+    },
     "https://claude.com/blog/claude-in-microsoft-foundry": {
       "date": "2026-06-29T00:00:00+00:00",
       "first_seen": "2026-06-29T18:36:37.438982+00:00",
@@ -476,6 +481,11 @@
       "date": "2026-07-24T00:00:00+00:00",
       "first_seen": "2026-07-24T19:08:54.380967+00:00",
       "title": "How the product designer who built Claude Design uses it to explore ideas before building them"
+    },
+    "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude": {
+      "date": "2026-08-26T00:00:00+00:00",
+      "first_seen": "2026-08-26T19:29:43.353397+00:00",
+      "title": "How Warp builds self-improving agents on Claude"
     },
     "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
       "date": "2026-05-28T00:00:00+00:00",
