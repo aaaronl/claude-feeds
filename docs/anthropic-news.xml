@@ -5,8 +5,20 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 27 Aug 2026 16:59:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 01:51:05 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>Previewing the Model Hardware Standard</title>
+<link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
+<pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Expanding our support for scientists</title>
+<link>https://www.anthropic.com/news/expanding-support-for-scientists</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/expanding-support-for-scientists</guid>
+<pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Funding better evaluations of AI’s impact on wellbeing</title>
 <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
@@ -174,18 +186,6 @@
 <link>https://www.anthropic.com/news/tcs-anthropic-partnership</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/tcs-anthropic-partnership</guid>
 <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Introducing Claude Corps</title>
-<link>https://www.anthropic.com/news/claude-corps</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/claude-corps</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on</title>
-<link>https://www.anthropic.com/news/dxc-anthropic-alliance</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/dxc-anthropic-alliance</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>

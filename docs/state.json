@@ -110,6 +110,11 @@
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "Expanding Project Glasswing"
     },
+    "https://www.anthropic.com/news/expanding-support-for-scientists": {
+      "date": "2026-08-27T00:00:00+00:00",
+      "first_seen": "2026-08-28T01:51:05.162816+00:00",
+      "title": "Expanding our support for scientists"
+    },
     "https://www.anthropic.com/news/fable-mythos-access": {
       "date": "2026-06-11T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
@@ -139,6 +144,11 @@
       "date": "2026-07-30T00:00:00+00:00",
       "first_seen": "2026-07-31T01:30:00.581028+00:00",
       "title": "Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations"
+    },
+    "https://www.anthropic.com/news/model-hardware-standard-research-preview": {
+      "date": "2026-08-27T00:00:00+00:00",
+      "first_seen": "2026-08-28T01:51:05.162816+00:00",
+      "title": "Previewing the Model Hardware Standard"
     },
     "https://www.anthropic.com/news/position-open-weights-models": {
       "date": "2026-07-27T00:00:00+00:00",
