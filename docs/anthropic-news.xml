@@ -5,18 +5,18 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 28 Aug 2026 01:51:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 17:48:43 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
-<item>
-<title>Previewing the Model Hardware Standard</title>
-<link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
-<pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-</item>
 <item>
 <title>Expanding our support for scientists</title>
 <link>https://www.anthropic.com/news/expanding-support-for-scientists</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/expanding-support-for-scientists</guid>
+<pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Previewing the Model Hardware Standard</title>
+<link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
 <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
