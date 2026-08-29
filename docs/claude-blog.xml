@@ -5,12 +5,18 @@
 <link>https://claude.com/blog</link>
 <description>Unofficial feed of posts from the Claude blog (claude.com/blog).</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 28 Aug 2026 17:48:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 01:14:48 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
 <item>
-<title>Claude for Teachers, now available for schools and districts</title>
+<title>Claude for Teachers, now available for U.S. K-12 schools and districts</title>
 <link>https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</link>
 <guid isPermaLink="true">https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</guid>
+<pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>How Anthropic employees use Claude Tag</title>
+<link>https://claude.com/blog/how-anthropic-employees-use-claude-tag</link>
+<guid isPermaLink="true">https://claude.com/blog/how-anthropic-employees-use-claude-tag</guid>
 <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -180,12 +186,6 @@
 <link>https://claude.com/blog/claude-enterprise-inference-hooks</link>
 <guid isPermaLink="true">https://claude.com/blog/claude-enterprise-inference-hooks</guid>
 <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>A guide to cost visibility and control in Claude</title>
-<link>https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude</link>
-<guid isPermaLink="true">https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude</guid>
-<pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
