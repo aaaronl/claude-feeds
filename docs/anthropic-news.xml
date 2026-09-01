@@ -5,8 +5,14 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 01 Sep 2026 15:40:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 20:14:57 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>Developing Enterprise Frontier Safeguards with our customers</title>
+<link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/enterprise-frontier-safeguards</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Improving our alignment and security efforts</title>
 <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
@@ -180,12 +186,6 @@
 <link>https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy</guid>
 <pubDate>Sat, 13 Jun 2026 00:50:24 +0000</pubDate>
-</item>
-<item>
-<title>Results from the first Anthropic Public Record</title>
-<link>https://www.anthropic.com/news/anthropic-public-record</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/anthropic-public-record</guid>
-<pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
