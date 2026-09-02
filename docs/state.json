@@ -332,6 +332,11 @@
       "first_seen": "2026-08-05T19:10:39.691922+00:00",
       "title": "Inference hooks: inline data loss prevention for Claude Enterprise"
     },
+    "https://claude.com/blog/claude-for-commerce-agents": {
+      "date": "2026-09-02T00:00:00+00:00",
+      "first_seen": "2026-09-02T20:12:58.642248+00:00",
+      "title": "Building commerce agents with Claude"
+    },
     "https://claude.com/blog/claude-for-foundation-models": {
       "date": "2026-06-08T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
@@ -596,6 +601,11 @@
       "date": "2026-08-21T00:00:00+00:00",
       "first_seen": "2026-08-21T18:19:32.248935+00:00",
       "title": "The AI-Native SDLC playbook"
+    },
+    "https://claude.com/blog/the-anatomy-of-effective-commerce-agents": {
+      "date": "2026-09-02T00:00:00+00:00",
+      "first_seen": "2026-09-02T20:12:58.642248+00:00",
+      "title": "A guide to the anatomy of effective commerce agents"
     },
     "https://claude.com/blog/the-claude-cowork-product-guide": {
       "date": "2026-06-05T00:00:00+00:00",
