@@ -337,6 +337,11 @@
       "first_seen": "2026-09-02T20:12:58.642248+00:00",
       "title": "Building commerce agents with Claude"
     },
+    "https://claude.com/blog/claude-for-financial-advisors": {
+      "date": "2026-09-14T00:00:00+00:00",
+      "first_seen": "2026-09-14T17:09:17.718782+00:00",
+      "title": "Claude for Financial Advisors"
+    },
     "https://claude.com/blog/claude-for-foundation-models": {
       "date": "2026-06-08T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
@@ -496,6 +501,11 @@
       "date": "2026-07-21T00:00:00+00:00",
       "first_seen": "2026-07-21T19:01:18.175060+00:00",
       "title": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code"
+    },
+    "https://claude.com/blog/how-healthcare-organizations-use-claude-tag": {
+      "date": "2026-09-14T00:00:00+00:00",
+      "first_seen": "2026-09-14T17:09:17.718782+00:00",
+      "title": "How healthcare organizations use Claude Tag"
     },
     "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5": {
       "date": "2026-08-13T00:00:00+00:00",
