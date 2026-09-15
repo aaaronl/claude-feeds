@@ -5,8 +5,20 @@
 <link>https://claude.com/blog</link>
 <description>Unofficial feed of posts from the Claude blog (claude.com/blog).</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 15 Sep 2026 10:35:55 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 15:49:25 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>Bringing Salesforce into Claude</title>
+<link>https://claude.com/blog/salesforce-in-claude</link>
+<guid isPermaLink="true">https://claude.com/blog/salesforce-in-claude</guid>
+<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Building an AI-native revenue organization</title>
+<link>https://claude.com/blog/building-an-ai-native-revenue-organization</link>
+<guid isPermaLink="true">https://claude.com/blog/building-an-ai-native-revenue-organization</guid>
+<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic</title>
 <link>https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic</link>
@@ -174,18 +186,6 @@
 <link>https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</link>
 <guid isPermaLink="true">https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</guid>
 <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Claude Tag now reads even more of the room</title>
-<link>https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</link>
-<guid isPermaLink="true">https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room</guid>
-<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5</title>
-<link>https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5</link>
-<guid isPermaLink="true">https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5</guid>
-<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
