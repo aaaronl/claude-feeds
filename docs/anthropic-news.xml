@@ -5,8 +5,14 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 18 Sep 2026 15:20:55 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 20:05:02 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>Partnering with Accenture on embedded evaluation</title>
+<link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/accenture-embedded-evaluation</guid>
+<pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Introducing the Life Sciences Verification Program</title>
 <link>https://www.anthropic.com/news/life-sciences-verification-program</link>
@@ -180,12 +186,6 @@
 <link>https://www.anthropic.com/news/introducing-claude-tag</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/introducing-claude-tag</guid>
 <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem</title>
-<link>https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem</guid>
-<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
