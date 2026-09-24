@@ -422,10 +422,20 @@
       "first_seen": "2026-07-24T19:08:54.380967+00:00",
       "title": "Claude models explained: choosing the best model for your use case"
     },
+    "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context": {
+      "date": "2026-09-24T00:00:00+00:00",
+      "first_seen": "2026-09-24T20:52:00.969319+00:00",
+      "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind."
+    },
     "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room": {
       "date": "2026-08-13T00:00:00+00:00",
       "first_seen": "2026-08-13T18:44:47.386209+00:00",
       "title": "Claude Tag now reads even more of the room"
+    },
+    "https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels": {
+      "date": "2026-09-24T00:00:00+00:00",
+      "first_seen": "2026-09-24T20:52:00.969319+00:00",
+      "title": "Claude Tag now supports personal connectors in channels"
     },
     "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it": {
       "date": "2026-08-25T00:00:00+00:00",
