@@ -5,12 +5,12 @@
 <link>https://claude.com/blog</link>
 <description>Unofficial feed of posts from the Claude blog (claude.com/blog).</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 23 Sep 2026 20:46:17 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 01:57:12 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
 <item>
-<title>How to prepare for AI-driven code modernization projects</title>
-<link>https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</link>
-<guid isPermaLink="true">https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</guid>
+<title>Claude Marketplace: one place to discover plugins, agents, and services from our partners</title>
+<link>https://claude.com/blog/claude-marketplace</link>
+<guid isPermaLink="true">https://claude.com/blog/claude-marketplace</guid>
 <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -20,9 +20,9 @@
 <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Claude Marketplace: one place to discover plugins, agents, and services from our partners</title>
-<link>https://claude.com/blog/claude-marketplace</link>
-<guid isPermaLink="true">https://claude.com/blog/claude-marketplace</guid>
+<title>How to prepare for AI-driven code modernization projects</title>
+<link>https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</link>
+<guid isPermaLink="true">https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</guid>
 <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
