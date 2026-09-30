@@ -5,8 +5,14 @@
 <link>https://claude.com/blog</link>
 <description>Unofficial feed of posts from the Claude blog (claude.com/blog).</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 30 Sep 2026 11:29:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 17:07:43 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>How Anthropic's sales team rebuilt inbound with Claude Managed Agents</title>
+<link>https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents</link>
+<guid isPermaLink="true">https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Agents you can coach: how Asana builds human-agent teams with Claude</title>
 <link>https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude</link>
@@ -180,12 +186,6 @@
 <link>https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</link>
 <guid isPermaLink="true">https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</guid>
 <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Bain &amp; Company joins the Claude Partner Network as a Global Premier partner</title>
-<link>https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner</link>
-<guid isPermaLink="true">https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner</guid>
-<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
