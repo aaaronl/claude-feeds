@@ -5,8 +5,14 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 01 Oct 2026 02:50:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 11:58:01 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>Barclays scales Claude to upgrade operations and improve client experience</title>
+<link>https://www.anthropic.com/news/barclays-scales-claude</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/barclays-scales-claude</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Science Claude discovers a novel enzyme system with CRISPR-like repeats</title>
 <link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
@@ -179,12 +185,6 @@
 <title>Introducing Claude Sonnet 5</title>
 <link>https://www.anthropic.com/news/claude-sonnet-5</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-5</guid>
-<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Redeploying Fable 5</title>
-<link>https://www.anthropic.com/news/redeploying-fable-5</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/redeploying-fable-5</guid>
 <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
