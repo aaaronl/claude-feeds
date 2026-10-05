@@ -597,6 +597,11 @@
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "How CodeRabbit used Claude to build an agent orchestration system"
     },
+    "https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk": {
+      "date": "2026-10-05T00:00:00+00:00",
+      "first_seen": "2026-10-05T23:25:30.334269+00:00",
+      "title": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK"
+    },
     "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code": {
       "date": "2026-07-21T00:00:00+00:00",
       "first_seen": "2026-07-21T19:01:18.175060+00:00",
