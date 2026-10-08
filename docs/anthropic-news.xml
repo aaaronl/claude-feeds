@@ -5,8 +5,26 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 08 Oct 2026 12:22:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 22:35:11 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>2026 Usage Policy update</title>
+<link>https://www.anthropic.com/news/2026-usage-policy-update</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/2026-usage-policy-update</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Building on our commitment to American scientific discovery</title>
+<link>https://www.anthropic.com/news/genesis-mission-commitment</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/genesis-mission-commitment</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Introducing the Anthropic Cyber Mission</title>
+<link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/anthropic-cyber-mission</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Expanding the Cyber Verification Program</title>
 <link>https://www.anthropic.com/news/cyber-verification-program</link>
@@ -168,24 +186,6 @@
 <link>https://www.anthropic.com/news/reflect-with-claude</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/reflect-with-claude</guid>
 <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Case Study UST is bringing Claude to physical AI</title>
-<link>https://www.anthropic.com/news/ust-claude</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/ust-claude</guid>
-<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Case Study Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems</title>
-<link>https://www.anthropic.com/news/alberta-government-claude-cybersecurity</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/alberta-government-claude-cybersecurity</guid>
-<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>More details on Fable 5’s cyber safeguards and our jailbreak framework</title>
-<link>https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/fable-safeguards-jailbreak-framework</guid>
-<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>

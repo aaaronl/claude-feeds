@@ -1,5 +1,10 @@
 {
   "anthropic-news": {
+    "https://www.anthropic.com/news/2026-usage-policy-update": {
+      "date": "2026-10-08T00:00:00+00:00",
+      "first_seen": "2026-10-08T22:35:10.829167+00:00",
+      "title": "2026 Usage Policy update"
+    },
     "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack": {
       "date": "2026-06-03T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
@@ -19,6 +24,11 @@
       "date": null,
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
       "title": "Responsible Scaling Policy"
+    },
+    "https://www.anthropic.com/news/anthropic-cyber-mission": {
+      "date": "2026-10-08T00:00:00+00:00",
+      "first_seen": "2026-10-08T22:35:10.829167+00:00",
+      "title": "Introducing the Anthropic Cyber Mission"
     },
     "https://www.anthropic.com/news/anthropic-economic-index-connector": {
       "date": "2026-07-22T00:00:00+00:00",
@@ -154,6 +164,11 @@
       "date": "2026-07-02T00:00:00+00:00",
       "first_seen": "2026-07-03T01:46:54.103180+00:00",
       "title": "More details on Fable 5\u2019s cyber safeguards and our jailbreak framework"
+    },
+    "https://www.anthropic.com/news/genesis-mission-commitment": {
+      "date": "2026-10-08T00:00:00+00:00",
+      "first_seen": "2026-10-08T22:35:10.829167+00:00",
+      "title": "Building on our commitment to American scientific discovery"
     },
     "https://www.anthropic.com/news/hard-questions": {
       "date": "2026-07-09T00:00:00+00:00",
