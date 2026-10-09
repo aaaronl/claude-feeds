@@ -5,7 +5,7 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 08 Oct 2026 22:35:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 03:25:21 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
 <item>
 <title>2026 Usage Policy update</title>
@@ -14,15 +14,15 @@
 <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Building on our commitment to American scientific discovery</title>
-<link>https://www.anthropic.com/news/genesis-mission-commitment</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/genesis-mission-commitment</guid>
-<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Introducing the Anthropic Cyber Mission</title>
 <link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-cyber-mission</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Building on our commitment to American scientific discovery</title>
+<link>https://www.anthropic.com/news/genesis-mission-commitment</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/genesis-mission-commitment</guid>
 <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
