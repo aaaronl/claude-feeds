@@ -5,8 +5,14 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 14 Oct 2026 02:27:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 10:45:42 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>Anthropic opens Singapore office and signs MOU with the Government of Singapore</title>
+<link>https://www.anthropic.com/news/singapore-office-opening</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/singapore-office-opening</guid>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>2026 Usage Policy update</title>
 <link>https://www.anthropic.com/news/2026-usage-policy-update</link>
@@ -179,12 +185,6 @@
 <title>Inviting hard questions</title>
 <link>https://www.anthropic.com/news/hard-questions</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/hard-questions</guid>
-<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Introducing a way to reflect on how you use Claude</title>
-<link>https://www.anthropic.com/news/reflect-with-claude</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/reflect-with-claude</guid>
 <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
