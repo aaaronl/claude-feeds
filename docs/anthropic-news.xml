@@ -5,12 +5,18 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 14 Oct 2026 16:05:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 21:03:12 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
 <item>
 <title>Anthropic opens Singapore office and signs MOU with the Government of Singapore</title>
 <link>https://www.anthropic.com/news/singapore-office-opening</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/singapore-office-opening</guid>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Preparing for the 2026 US midterms</title>
+<link>https://www.anthropic.com/news/2026-us-midterms</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/2026-us-midterms</guid>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -179,12 +185,6 @@
 <title>Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust</title>
 <link>https://www.anthropic.com/news/ben-bernanke</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/ben-bernanke</guid>
-<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Inviting hard questions</title>
-<link>https://www.anthropic.com/news/hard-questions</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/hard-questions</guid>
 <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>

@@ -1,5 +1,10 @@
 {
   "anthropic-news": {
+    "https://www.anthropic.com/news/2026-us-midterms": {
+      "date": "2026-10-14T00:00:00+00:00",
+      "first_seen": "2026-10-14T21:03:11.914352+00:00",
+      "title": "Preparing for the 2026 US midterms"
+    },
     "https://www.anthropic.com/news/2026-usage-policy-update": {
       "date": "2026-10-08T00:00:00+00:00",
       "first_seen": "2026-10-08T22:35:10.829167+00:00",
