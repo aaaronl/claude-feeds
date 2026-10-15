@@ -5,8 +5,14 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 15 Oct 2026 15:52:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 20:38:00 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>An update on independent evaluators</title>
+<link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/an-update-on-independent-evaluators</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Preparing for the 2026 US midterms</title>
 <link>https://www.anthropic.com/news/2026-us-midterms</link>
@@ -180,12 +186,6 @@
 <link>https://www.anthropic.com/news/claude-for-teachers</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/claude-for-teachers</guid>
 <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust</title>
-<link>https://www.anthropic.com/news/ben-bernanke</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/ben-bernanke</guid>
-<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>

@@ -5,7 +5,7 @@
 <link>https://claude.com/blog</link>
 <description>Unofficial feed of posts from the Claude blog (claude.com/blog).</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 15 Oct 2026 15:52:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 20:38:00 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
 <item>
 <title>How Cresta turned CX expertise into an agent builder on the Claude Agent SDK</title>
