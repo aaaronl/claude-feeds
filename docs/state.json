@@ -3,12 +3,12 @@
     "https://www.anthropic.com/news/2026-us-midterms": {
       "date": "2026-10-14T00:00:00+00:00",
       "first_seen": "2026-10-14T21:03:11.914352+00:00",
-      "title": "Preparing for the 2026 US midterms"
+      "title": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we\u2019ve continued to strengthen these safeguards ahead of this year\u2019s US midterms."
     },
     "https://www.anthropic.com/news/2026-usage-policy-update": {
       "date": "2026-10-08T00:00:00+00:00",
       "first_seen": "2026-10-08T22:35:10.829167+00:00",
-      "title": "2026 Usage Policy update"
+      "title": "We\u2019re publishing a new version of our Usage Policy. In this post, we summarize the changes we\u2019ve made."
     },
     "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack": {
       "date": "2026-06-03T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "https://www.anthropic.com/news/accenture-embedded-evaluation": {
       "date": "2026-09-18T00:00:00+00:00",
       "first_seen": "2026-09-18T20:05:01.767760+00:00",
-      "title": "Partnering with Accenture on embedded evaluation"
+      "title": "We\u2019re partnering with Accenture on independent evaluation of frontier AI\u2014part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years."
     },
     "https://www.anthropic.com/news/alberta-government-claude-cybersecurity": {
       "date": "2026-07-06T00:00:00+00:00",
@@ -28,7 +28,12 @@
     "https://www.anthropic.com/news/an-update-on-independent-evaluators": {
       "date": "2026-10-15T00:00:00+00:00",
       "first_seen": "2026-10-15T20:38:00.042708+00:00",
-      "title": "An update on independent evaluators"
+      "title": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face."
+    },
+    "https://www.anthropic.com/news/announcements": {
+      "date": "2026-09-22T00:00:00+00:00",
+      "first_seen": "2026-10-20T20:57:57.885613+00:00",
+      "title": "Announcements"
     },
     "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy": {
       "date": null,
@@ -38,7 +43,7 @@
     "https://www.anthropic.com/news/anthropic-cyber-mission": {
       "date": "2026-10-08T00:00:00+00:00",
       "first_seen": "2026-10-08T22:35:10.829167+00:00",
-      "title": "Introducing the Anthropic Cyber Mission"
+      "title": "We\u2019re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on."
     },
     "https://www.anthropic.com/news/anthropic-economic-index-connector": {
       "date": "2026-07-22T00:00:00+00:00",
@@ -53,7 +58,7 @@
     "https://www.anthropic.com/news/barclays-scales-claude": {
       "date": "2026-10-01T00:00:00+00:00",
       "first_seen": "2026-10-01T11:58:01.441635+00:00",
-      "title": "Barclays scales Claude to upgrade operations and improve client experience"
+      "title": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations."
     },
     "https://www.anthropic.com/news/ben-bernanke": {
       "date": "2026-07-09T00:00:00+00:00",
@@ -93,7 +98,7 @@
     "https://www.anthropic.com/news/claude-frontier-academy": {
       "date": "2026-10-02T00:00:00+00:00",
       "first_seen": "2026-10-02T21:30:59.521606+00:00",
-      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap"
+      "title": "Anthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway."
     },
     "https://www.anthropic.com/news/claude-opus-4-8": {
       "date": "2026-05-28T00:00:00+00:00",
@@ -118,7 +123,7 @@
     "https://www.anthropic.com/news/claude-text-watermark": {
       "date": "2026-08-14T00:00:00+00:00",
       "first_seen": "2026-08-15T00:33:11.488776+00:00",
-      "title": "How Claude\u2019s text watermark works"
+      "title": "In this article, we share answers to some of the questions we\u2019ve received about how our chosen watermarking method works, whether it affects Claude\u2019s outputs, and why we\u2019re making this change."
     },
     "https://www.anthropic.com/news/cognizant-anthropic": {
       "date": "2026-07-27T00:00:00+00:00",
@@ -133,7 +138,12 @@
     "https://www.anthropic.com/news/cyber-verification-program": {
       "date": "2026-10-06T00:00:00+00:00",
       "first_seen": "2026-10-06T21:57:31.257960+00:00",
-      "title": "Expanding the Cyber Verification Program"
+      "title": "We\u2019re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals."
+    },
+    "https://www.anthropic.com/news/distillation-defenses": {
+      "date": "2026-10-12T00:00:00+00:00",
+      "first_seen": "2026-10-20T20:57:57.885613+00:00",
+      "title": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we\u2019ve reduced the rate of distillation by more than 90%."
     },
     "https://www.anthropic.com/news/donation-public-first-action": {
       "date": "2026-07-21T00:00:00+00:00",
@@ -163,7 +173,7 @@
     "https://www.anthropic.com/news/expanding-support-for-scientists": {
       "date": "2026-08-27T00:00:00+00:00",
       "first_seen": "2026-08-28T01:51:05.162816+00:00",
-      "title": "Expanding our support for scientists"
+      "title": "Starting today, 10,000 scientists around the world can get Claude at no cost to start. Verified principal investigators qualify for a Claude Team subscription plan and then add their research team to Standard seats for free, or Premium seats for $15 per month, for up to a year."
     },
     "https://www.anthropic.com/news/fable-mythos-access": {
       "date": "2026-06-11T00:00:00+00:00",
@@ -178,7 +188,7 @@
     "https://www.anthropic.com/news/genesis-mission-commitment": {
       "date": "2026-10-08T00:00:00+00:00",
       "first_seen": "2026-10-08T22:35:10.829167+00:00",
-      "title": "Building on our commitment to American scientific discovery"
+      "title": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI."
     },
     "https://www.anthropic.com/news/hard-questions": {
       "date": "2026-07-09T00:00:00+00:00",
@@ -188,7 +198,7 @@
     "https://www.anthropic.com/news/improving-alignment-security-efforts": {
       "date": "2026-08-31T00:00:00+00:00",
       "first_seen": "2026-09-01T02:22:53.062045+00:00",
-      "title": "Improving our alignment and security efforts"
+      "title": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we\u2019re sharing some of the changes we\u2019ve made over the past month."
     },
     "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards": {
       "date": "2026-08-07T00:00:00+00:00",
@@ -208,22 +218,37 @@
     "https://www.anthropic.com/news/life-sciences-verification-program": {
       "date": "2026-09-17T00:00:00+00:00",
       "first_seen": "2026-09-17T20:40:24.038313+00:00",
-      "title": "Introducing the Life Sciences Verification Program"
+      "title": "The Life Sciences Verification Program (LSVP) gives life science professionals access to Claude Mythos, Opus, and Sonnet models with a refined set of safeguards more permissive for biology-related work."
     },
     "https://www.anthropic.com/news/model-hardware-standard-research-preview": {
       "date": "2026-08-27T00:00:00+00:00",
       "first_seen": "2026-08-28T01:51:05.162816+00:00",
-      "title": "Previewing the Model Hardware Standard"
+      "title": "We\u2019re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers."
+    },
+    "https://www.anthropic.com/news/partnerships": {
+      "date": "2026-09-21T00:00:00+00:00",
+      "first_seen": "2026-10-20T20:57:57.885613+00:00",
+      "title": "Partnerships"
+    },
+    "https://www.anthropic.com/news/policy": {
+      "date": "2026-10-15T00:00:00+00:00",
+      "first_seen": "2026-10-20T20:57:57.885613+00:00",
+      "title": "Policy"
     },
     "https://www.anthropic.com/news/position-open-weights-models": {
       "date": "2026-07-27T00:00:00+00:00",
       "first_seen": "2026-07-28T01:21:50.671448+00:00",
       "title": "Our position on open-weights models"
     },
+    "https://www.anthropic.com/news/product": {
+      "date": "2026-02-23T00:00:00+00:00",
+      "first_seen": "2026-10-20T20:57:57.885613+00:00",
+      "title": "Product"
+    },
     "https://www.anthropic.com/news/public-benefit-fund": {
       "date": "2026-10-18T00:00:00+00:00",
       "first_seen": "2026-10-18T19:47:51.635046+00:00",
-      "title": "Investing in the public benefit"
+      "title": "We\u2019re committing a portion of Anthropic\u2019s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows."
     },
     "https://www.anthropic.com/news/rare-disease-research-grants": {
       "date": "2026-07-20T00:00:00+00:00",
@@ -240,6 +265,16 @@
       "first_seen": "2026-07-09T14:26:11.309247+00:00",
       "title": "Introducing a way to reflect on how you use Claude"
     },
+    "https://www.anthropic.com/news/safeguards": {
+      "date": "2026-10-14T00:00:00+00:00",
+      "first_seen": "2026-10-20T20:57:57.885613+00:00",
+      "title": "Safeguards"
+    },
+    "https://www.anthropic.com/news/security": {
+      "date": "2026-10-08T00:00:00+00:00",
+      "first_seen": "2026-10-20T20:57:57.885613+00:00",
+      "title": "Security"
+    },
     "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem": {
       "date": "2026-06-17T00:00:00+00:00",
       "first_seen": "2026-06-17T18:44:57.521514+00:00",
@@ -253,7 +288,7 @@
     "https://www.anthropic.com/news/singapore-office-opening": {
       "date": "2026-10-14T00:00:00+00:00",
       "first_seen": "2026-10-14T10:45:42.374961+00:00",
-      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore"
+      "title": "Anthropic has opened an office in Singapore and signed an MOU with the country\u2019s government to advance safe, responsible AI adoption."
     },
     "https://www.anthropic.com/news/tcs-anthropic-partnership": {
       "date": "2026-06-12T00:00:00+00:00",
@@ -273,7 +308,7 @@
     "https://www.anthropic.com/news/wellbeing-research-grants": {
       "date": "2026-08-25T00:00:00+00:00",
       "first_seen": "2026-08-25T18:21:11.437482+00:00",
-      "title": "Funding better evaluations of AI\u2019s impact on wellbeing"
+      "title": "We\u2019re launching a $5 million grant program to fund independent research into how AI impacts users\u2019 wellbeing."
     }
   },
   "claude-blog": {
