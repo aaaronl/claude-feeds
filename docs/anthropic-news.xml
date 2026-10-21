@@ -5,7 +5,7 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 20 Oct 2026 20:57:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 02:18:41 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
 <item>
 <title>We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</title>
@@ -32,15 +32,15 @@
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.</title>
-<link>https://www.anthropic.com/news/singapore-office-opening</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/singapore-office-opening</guid>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Safeguards</title>
 <link>https://www.anthropic.com/news/safeguards</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/safeguards</guid>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.</title>
+<link>https://www.anthropic.com/news/singapore-office-opening</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/singapore-office-opening</guid>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -107,6 +107,12 @@
 <title>Partnerships</title>
 <link>https://www.anthropic.com/news/partnerships</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/partnerships</guid>
+<pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Features</title>
+<link>https://www.anthropic.com/news/features</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/features</guid>
 <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -179,12 +185,6 @@
 <title>Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</title>
 <link>https://www.anthropic.com/news/cognizant-anthropic</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/cognizant-anthropic</guid>
-<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Our position on open-weights models</title>
-<link>https://www.anthropic.com/news/position-open-weights-models</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/position-open-weights-models</guid>
 <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
