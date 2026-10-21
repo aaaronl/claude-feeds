@@ -5,8 +5,14 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 21 Oct 2026 16:13:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 20:57:55 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.</title>
+<link>https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</guid>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</title>
 <link>https://www.anthropic.com/news/public-benefit-fund</link>
@@ -128,7 +134,7 @@
 <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Developing Enterprise Frontier Safeguards with our customers</title>
+<title>We’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic.</title>
 <link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/enterprise-frontier-safeguards</guid>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
@@ -180,12 +186,6 @@
 <link>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</guid>
 <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</title>
-<link>https://www.anthropic.com/news/cognizant-anthropic</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/cognizant-anthropic</guid>
-<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
