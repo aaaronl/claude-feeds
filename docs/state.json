@@ -150,6 +150,11 @@
       "first_seen": "2026-10-20T20:57:57.885613+00:00",
       "title": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we\u2019ve reduced the rate of distillation by more than 90%."
     },
+    "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation": {
+      "date": "2026-10-22T00:00:00+00:00",
+      "first_seen": "2026-10-22T20:56:15.999648+00:00",
+      "title": "We\u2019re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025."
+    },
     "https://www.anthropic.com/news/donation-public-first-action": {
       "date": "2026-07-21T00:00:00+00:00",
       "first_seen": "2026-07-22T13:17:32.577154+00:00",

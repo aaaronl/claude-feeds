@@ -5,8 +5,14 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 22 Oct 2026 16:12:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 20:56:16 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
+<item>
+<title>We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.</title>
+<link>https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</guid>
+<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.</title>
 <link>https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</link>
@@ -180,12 +186,6 @@
 <link>https://www.anthropic.com/news/tino-cuellar</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/tino-cuellar</guid>
 <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations</title>
-<link>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</guid>
-<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
