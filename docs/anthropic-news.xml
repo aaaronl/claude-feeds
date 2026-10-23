@@ -5,12 +5,18 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 22 Oct 2026 20:56:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 02:19:23 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
 <item>
 <title>We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.</title>
 <link>https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</guid>
+<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Today, we’re inviting members of the life sciences community to apply to work with us on special projects.</title>
+<link>https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</guid>
 <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -180,12 +186,6 @@
 <link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</guid>
 <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</title>
-<link>https://www.anthropic.com/news/tino-cuellar</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/tino-cuellar</guid>
-<pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
