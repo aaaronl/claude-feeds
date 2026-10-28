@@ -5,7 +5,7 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 27 Oct 2026 21:32:43 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 02:50:54 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
 <item>
 <title>We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.</title>
@@ -14,7 +14,13 @@
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic files S-1 with the SEC for proposed initial public offering</title>
+<title>We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.</title>
+<link>https://www.anthropic.com/news/expanding-partnership-gsa</link>
+<guid isPermaLink="true">https://www.anthropic.com/news/expanding-partnership-gsa</guid>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.</title>
 <link>https://www.anthropic.com/news/s1-sec</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/s1-sec</guid>
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
@@ -180,12 +186,6 @@
 <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
 <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>We’re launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.</title>
-<link>https://www.anthropic.com/news/wellbeing-research-grants</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/wellbeing-research-grants</guid>
-<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>

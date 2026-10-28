@@ -175,6 +175,11 @@
       "first_seen": "2026-09-01T20:14:56.985628+00:00",
       "title": "We\u2019re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic."
     },
+    "https://www.anthropic.com/news/expanding-partnership-gsa": {
+      "date": "2026-10-27T00:00:00+00:00",
+      "first_seen": "2026-10-28T02:50:53.836458+00:00",
+      "title": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API."
+    },
     "https://www.anthropic.com/news/expanding-project-glasswing": {
       "date": "2026-06-02T00:00:00+00:00",
       "first_seen": "2026-06-13T00:50:24.757988+00:00",
@@ -288,7 +293,7 @@
     "https://www.anthropic.com/news/s1-sec": {
       "date": "2026-10-26T00:00:00+00:00",
       "first_seen": "2026-10-26T17:47:07.508238+00:00",
-      "title": "Anthropic files S-1 with the SEC for proposed initial public offering"
+      "title": "Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock."
     },
     "https://www.anthropic.com/news/safeguards": {
       "date": "2026-10-14T00:00:00+00:00",
