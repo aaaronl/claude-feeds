@@ -5,18 +5,18 @@
 <link>https://www.anthropic.com/news</link>
 <description>Unofficial feed of posts from the Anthropic newsroom (anthropic.com/news).</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 28 Oct 2026 02:50:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 11:45:46 +0000</lastBuildDate>
 <generator>github-actions-rss</generator>
-<item>
-<title>We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.</title>
-<link>https://www.anthropic.com/research/early-progress-drug-development</link>
-<guid isPermaLink="true">https://www.anthropic.com/research/early-progress-drug-development</guid>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-</item>
 <item>
 <title>We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.</title>
 <link>https://www.anthropic.com/news/expanding-partnership-gsa</link>
 <guid isPermaLink="true">https://www.anthropic.com/news/expanding-partnership-gsa</guid>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.</title>
+<link>https://www.anthropic.com/research/early-progress-drug-development</link>
+<guid isPermaLink="true">https://www.anthropic.com/research/early-progress-drug-development</guid>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
